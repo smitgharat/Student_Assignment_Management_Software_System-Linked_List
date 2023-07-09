@@ -1,2 +1,3 @@
 # Student_Assignment_Management_Software_System-Linked_List
 
+Synopsis: The Student Assignment Management Software System was developed in 15 days using the C programming language, utilizing linked lists as the data structure. It is a menu-driven program serving as an interface between students and teachers. Students form groups of two and can upload their assignments. Teachers can use the system to check if a specific assignment has been submitted by all students, view student status for a particular assignment, evaluate assignments, update marks, and display ordered lists based on marks. The system also includes file handling capabilities.
